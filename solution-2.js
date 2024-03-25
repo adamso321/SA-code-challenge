@@ -17,6 +17,7 @@ function checkSpeed(speed) {
             return `points: ${demeritPoints}`
         }
     }
+    5
 }
 const speed=parseInt(prompt("enter the speed; "))
 console.log(checkSpeed(speed))
